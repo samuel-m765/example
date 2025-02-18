@@ -5,3 +5,8 @@ h1 {
 li {
     color:blueviolet
 }
+img{
+    height: 2oopx;
+    width: 200px;
+    border-radius:50%
+}
